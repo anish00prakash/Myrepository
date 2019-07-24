@@ -2,4 +2,5 @@
 <mule-project xmlns="http://www.mulesoft.com/tooling/project" runtimeId="org.mule.tooling.server.3.9.1.ee" schemaVersion="5.3.0.0">
     <name>gitrepo</name>
     <description></description>
+    <muleExtension name="MyFirst" qualifier="org.mule.tooling.ui.contribution.my-first.3.5.0"/>
 </mule-project>
